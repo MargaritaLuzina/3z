@@ -45,6 +45,9 @@ nav>ul{
 nav>ul li{
     display: block;
     font-family: any;
+    border: 2px solid #8B4513;
+    background: radial-gradient(#F4A460, #D2691E);
+    border-radius: 10px;
 }
 footer{
     height: 40px;
